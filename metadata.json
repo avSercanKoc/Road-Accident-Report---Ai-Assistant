@@ -1,0 +1,7 @@
+{
+  "name": "Road Accident Report - AI Assistant",
+  "description": "A mobile web app that uses AI to automatically generate a complete accident report with a diagram, from photos, videos, audio, and document images provided by the driver at the scene of the accident.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
